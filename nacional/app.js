@@ -2,7 +2,7 @@ const jugadores = [
   {
     nombre: "David Ospina", posicion: "Arquero", numero: 1,
     nacionalidad: "Colombiano", edad: 36,
-    goles: 0, asistencias: 0, partidos: 8,
+    goles: 0, asistencias: 0, partidos: 9,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwwjocELZU1KkkoyZvy2CWhtR_RgR1Vgq2Q&s"
   },
   {
@@ -26,25 +26,25 @@ const jugadores = [
   {
     nombre: "Milton Casco", posicion: "Defensa", numero: 20,
     nacionalidad: "Argentino", edad: 38,
-    goles: 2, asistencias: 2, partidos: 13,
+    goles: 2, asistencias: 2, partidos: 14,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8lN903Sy4_hb2CJlmrtirXykbGHth8N_5A&s"
   },
   {
     nombre: "William Tesillo", posicion: "Defensa", numero: 16,
     nacionalidad: "Colombiano", edad: 34,
-    goles: 1, asistencias: 1, partidos: 8,
+    goles: 1, asistencias: 1, partidos: 9,
     foto: "https://files.winsports.co/cms/2026/02/24193810/William-Tesillo-defensor-de-Nacional-_-VizzorImage-_-Andres-Alvarez.jpg?r=1_1"
   },
   {
     nombre: "Simón García", posicion: "Defensa", numero: 28,
     nacionalidad: "Colombiano", edad: 27,
-    goles: 0, asistencias: 0, partidos: 11,
+    goles: 0, asistencias: 0, partidos: 12,
     foto: "https://estaticos.elcolombiano.com/binrepository/780x780/0c0/780d565/none/11101/BACG/g4svpzcwyaajyd0_49147951_20251101165926.jpg"
   },
   {
     nombre: "Andrés Román", posicion: "Defensa", numero: 6,
     nacionalidad: "Colombiano", edad: 28,
-    goles: 0, asistencias: 1, partidos: 14,
+    goles: 1, asistencias: 1, partidos: 15,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-1jR3m3X_XO94BefHKDzUbH2ykWBTCzbjg&s"
   },
   {
@@ -62,25 +62,25 @@ const jugadores = [
   {
     nombre: "Edwin Cardona", posicion: "Volante", numero: 10,
     nacionalidad: "Colombiano", edad: 31,
-    goles: 1, asistencias: 2, partidos: 13,
+    goles: 1, asistencias: 2, partidos: 14,
     foto: "https://www.espn.com.co/2003/photos2014/1209/g_cardona_288.jpg"
   },
   {
     nombre: "Jorman Campuzano", posicion: "Volante", numero: 21,
     nacionalidad: "Colombiano", edad: 28,
-    goles: 0, asistencias: 0, partidos: 11,
+    goles: 0, asistencias: 1, partidos: 12,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4BiaZE19aiPAc-m41g_EJYTxWwQO59pIdA&s"
   },
   {
     nombre: "Matheus Uribe", posicion: "Volante", numero: 8,
     nacionalidad: "Colombiano", edad: 32,
-    goles: 1, asistencias: 0, partidos: 15,
+    goles: 1, asistencias: 0, partidos: 16,
     foto: "https://caracoltv.brightspotcdn.com/dims4/default/a1421e4/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe5%2Fad%2F1ee99a9a45279c377aefa746574f%2Fmateus-urobe.jpg"
   },
   {
     nombre: "Juan Rengifo", posicion: "Volante", numero: 19,
     nacionalidad: "Colombiano", edad: 21,
-    goles: 6, asistencias: 5, partidos: 16,
+    goles: 6, asistencias: 5, partidos: 17,
     foto: "https://files.winsports.co/cms/2026/02/05100351/Juan-Manuel-Rengifo-y-un-inesperado-registro-en-el-Nacional-vs.-America-VizzorImage.jpg?r=4_3"
   },
   {
@@ -92,25 +92,25 @@ const jugadores = [
   {
     nombre: "Alfredo Morelos", posicion: "Delantero", numero: 9,
     nacionalidad: "Colombiano", edad: 28,
-    goles: 9, asistencias: 2, partidos: 14,
+    goles: 9, asistencias: 2, partidos: 15,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ZNlA1czkygmhWynNxB2vuaGOrPJoUKTJww&s"
   },
   {
     nombre: "Andrés Sarmiento", posicion: "Delantero", numero: 29,
     nacionalidad: "Colombiano", edad: 24,
-    goles: 3, asistencias: 4, partidos: 16,
+    goles: 3, asistencias: 4, partidos: 17,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKbSfwigfdg1hjhszQxQy7mlLybyQ40PRZA&s"
   },
   {
     nombre: "Cristian Arango", posicion: "Delantero", numero: 17,
     nacionalidad: "Colombiano", edad: 31,
-    goles: 1, asistencias: 0, partidos: 9,
+    goles: 1, asistencias: 1, partidos: 10,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VVrYx40QAwdOlfFaYQjUUiZ3haU11k-nEg&s"
   },
   {
     nombre: "Marlos Moreno", posicion: "Delantero", numero: 7,
     nacionalidad: "Colombiano", edad: 29,
-    goles: 2, asistencias: 1, partidos: 15,
+    goles: 3, asistencias: 1, partidos: 16,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDnE2KTuRd9t-LAGgemqTHT61Mop17jMggA&s"
   },
   {
@@ -122,7 +122,7 @@ const jugadores = [
   {
     nombre: "Eduardo Bello", posicion: "Delantero", numero: 18,
     nacionalidad: "Venezolano", edad: 30,
-    goles: 2, asistencias: 1, partidos: 10,
+    goles: 2, asistencias: 1, partidos: 11,
     foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Rab-4n9F2Rbp3RW4K1gtrOXOMPIWtOlaOw&s"
   },
   {
